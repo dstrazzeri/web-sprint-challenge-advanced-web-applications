@@ -118,8 +118,27 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. Explain what a token is used for.
 
+A token is a piece of software that is used to make security choices and store tamper-proof data about a system entity. When a token is usually only used to represent security information, it can also hold free-form data that can be added while the token is being formed.
+
 2. What steps can you take in your web apps to keep your data secure?
+
+Keep your Software Up-to-Date.
+Enforce a Strong Password Policy.
+Encrypt your Login Pages.
+Use a Secure Host. 
+Keep your Website Clean.
+Backup your Data.
+Scan your Website for Vulnerabilities.
+Hire a Security Expert.
+Etc.
 
 3. Describe how web servers work.
 
+Web servers are simply computer programs that serve web pages when they are requested through a web client. The devices that operate this program are known as servers, and the terms web server and server are practically interchangeable.
+
 4. Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
+
+POST: Creates a new resource.
+GET: Retrieves a resource.
+PUT: Updates an existing resource.
+DELETE: Deletes a resource.
